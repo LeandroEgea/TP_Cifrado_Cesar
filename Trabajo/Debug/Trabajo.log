@@ -1,0 +1,129 @@
+﻿Build started 03/09/2018 14:01:18.
+     1>Project "C:\Users\leandro\Documents\Visual Studio 2010\Projects\CifradoCesar\Trabajo\Trabajo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Trabajo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DEFINITIVO.cpp
+         DEFINITIVO.cpp
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(87): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(147): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(109): warning C4101: 'penc' : unreferenced local variable
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(109): warning C4101: 'pcad' : unreferenced local variable
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(174): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(200): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(162): warning C4101: 'penc' : unreferenced local variable
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(162): warning C4101: 'pcad' : unreferenced local variable
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(226): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(231): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(261): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(265): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(290): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(309): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(333): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(341): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(358): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(382): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(390): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(395): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(420): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(432): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(449): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(464): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(476): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(489): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(509): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(556): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(624): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(635): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(650): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(652): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(654): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(656): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(658): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(660): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(662): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(664): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(668): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(670): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(672): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(674): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(676): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(678): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(680): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(682): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(684): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(686): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(688): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(690): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(692): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(694): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(696): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(698): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(700): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(717): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(724): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(157): warning C4715: 'Encriptar' : not all control paths return a value
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(210): warning C4715: 'Desencriptar' : not all control paths return a value
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(375): warning C4715: 'Fuerza_bruta' : not all control paths return a value
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(460): warning C4715: 'N_posibles' : not all control paths return a value
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(572): warning C4715: 'KEY' : not all control paths return a value
+     1>c:\users\leandro\documents\visual studio 2010\projects\cifradocesar\trabajo\definitivo.cpp(743): warning C4715: 'SAVEFILE' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Trabajo.exe.embed.manifest.res" Debug\Trabajo_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\leandro\Documents\Visual Studio 2010\Projects\CifradoCesar\Debug\Trabajo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Trabajo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\leandro\Documents\Visual Studio 2010\Projects\CifradoCesar\Debug\Trabajo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\leandro\Documents\Visual Studio 2010\Projects\CifradoCesar\Debug\Trabajo.lib" /MACHINE:X86 Debug\Trabajo.exe.embed.manifest.res
+         Debug\DEFINITIVO.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Trabajo.exe.embed.manifest" /manifest Debug\Trabajo.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Trabajo.vcxproj -> C:\Users\leandro\Documents\Visual Studio 2010\Projects\CifradoCesar\Debug\Trabajo.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Trabajo.unsuccessfulbuild".
+         Touching "Debug\Trabajo.lastbuildstate".
+     1>Done Building Project "C:\Users\leandro\Documents\Visual Studio 2010\Projects\CifradoCesar\Trabajo\Trabajo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01
